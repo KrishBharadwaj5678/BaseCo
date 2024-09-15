@@ -1,10 +1,10 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="BaseX",
+    page_title="Online Base Convertor",
     page_icon="icon.png",
     menu_items={
-        "About":"BaseX provides a simple yet powerful interface for converting numbers between binary, decimal, hexadecimal, and octal formats. Whether you're a student, programmer, or anyone who needs quick base conversions, we've got you covered!"
+        "About":"BaseCo provides a simple yet powerful interface for converting numbers between binary, decimal, hexadecimal, and octal formats. Whether you're a student, programmer, or anyone who needs quick base conversions, we've got you covered!"
     }
 )
 
