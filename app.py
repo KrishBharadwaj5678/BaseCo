@@ -8,7 +8,7 @@ st.set_page_config(
     }
 )
 
-st.write("<h2 style='color:#21CFFF;'>All in One Number Base Convertor</h2>",unsafe_allow_html=True)
+st.write("<h2 style='color:orange;'>All in One Number Base Convertor</h2>",unsafe_allow_html=True)
 
 conv=["Binary","Decimal","Octal","Hexa Decimal"]
 
