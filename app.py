@@ -18,7 +18,7 @@ num=st.text_input(f"{froms} Number",placeholder=f"Enter {froms.lower()} number")
 btn=st.button("Convert")
 
 def show(data,to):
-    st.write(f"<h2 style='color:orange;';>{to} Number: {data}</h2>",unsafe_allow_html=True)
+    st.write(f"<h2 style='color:orange;'>{to} Number: {data}</h2>",unsafe_allow_html=True)
 
 if btn:
     if len(num)>=1:
